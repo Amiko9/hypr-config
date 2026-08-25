@@ -1,0 +1,10 @@
+.config/BraveSoftware/
+.config/google-chrome/
+.config/chromium/
+
+.cache/
+.local/share/Trash/
+
+*.log
+*.cache
+

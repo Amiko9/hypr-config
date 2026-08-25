@@ -1,0 +1,129 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.14 (PyCharmMiscProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.6" />
+      <homePath value="$USER_HOME$/PyCharmMiscProject/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.14" type="simple" />
+            <root url="file:///usr/lib/python3.14/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PyCharmMiscProject/.venv/lib/python3.14/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2026.1/python_stubs/1562295476" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PyCharmMiscProject" SDK_UUID="51cba03f-ba2b-4362-84dc-377288cca72b">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.14 (parse_bot)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.6" />
+      <homePath value="$USER_HOME$/PyCharmMiscProject/parse_bot/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.14" type="simple" />
+            <root url="file:///usr/lib/python3.14/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PyCharmMiscProject/parse_bot/.venv/lib/python3.14/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2026.1/python_stubs/-1699635576" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PyCharmMiscProject/parse_bot" ASSOCIATED_REQUIRED_TXT_PATH="requirements.txt" SDK_UUID="780f47bd-ec71-485b-b274-6df14772bd57">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="uv (FastAPIProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.6" />
+      <homePath value="$USER_HOME$/PycharmProjects/FastAPIProject/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.14" type="simple" />
+            <root url="file:///usr/lib/python3.14/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FastAPIProject/.venv/lib/python3.14/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2026.1/python_stubs/-1347733935" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/FastAPIProject" SDK_UUID="aca8efe6-92bd-4b67-aa43-f30c1ace8869" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/PycharmProjects/FastAPIProject" UV_VENV_PATH="$USER_HOME$/PycharmProjects/FastAPIProject/.venv" UV_TOOL_PATH="/usr/bin/uv">
+        <setting name="FLAVOR_ID" value="UvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{&quot;uvWorkingDirectory&quot;:&quot;/home/andreea/PycharmProjects/FastAPIProject&quot;,&quot;usePip&quot;:false,&quot;venvPath&quot;:&quot;/home/andreea/PycharmProjects/FastAPIProject/.venv&quot;,&quot;uvPath&quot;:&quot;/usr/bin/uv&quot;}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.14 (.venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.6" />
+      <homePath value="$USER_HOME$/PycharmProjects/monitor/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.14" type="simple" />
+            <root url="file:///usr/lib/python3.14/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/monitor/.venv/lib/python3.14/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2026.1/python_stubs/225402260" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/monitor" SDK_UUID="9c37ba27-7167-4b8e-b5dd-94dd5be560ef">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.14 (PythonProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.6" />
+      <homePath value="$USER_HOME$/PycharmProjects/PythonProject/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.14" type="simple" />
+            <root url="file:///usr/lib/python3.14/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PythonProject/.venv/lib/python3.14/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2026.1/python_stubs/657558033" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PythonProject" SDK_UUID="4bac83a3-39dc-455d-abaa-914ebbbb6a50">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+  </component>
+</application>

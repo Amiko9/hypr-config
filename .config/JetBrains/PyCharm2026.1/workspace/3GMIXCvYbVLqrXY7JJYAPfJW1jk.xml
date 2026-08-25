@@ -1,0 +1,881 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="parse_bot" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Folder" type="21c23a99:DvForestRootFolder" />
+        <item name="database.db: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Folder" type="21c23a99:DvForestRootFolder" />
+        <item name="database.db: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Folder" type="21c23a99:DvForestRootFolder" />
+        <item name="database.db: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Family of 5 table (host: schema main)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="qz07lj53av3m" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py" file-id="3642" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.venv/.gitignore" file-id="3707" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":".venv/.gitignore","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,77,10,19,118,99,115,47,105,103,110,111,114,101,95,102,105,108,101,46,115,118,103,18,27,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,103,110,111,114,101,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-117,-17,-30,-110,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/services/__init__.py" file-id="3661" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"services/__init__.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/static/script.js" file-id="3658" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"script.js","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-59,-110,-33,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/services/websocket.py" file-id="10073" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="396">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"websocket.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/db/history.py" file-id="3645" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"history.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/db/tables.py" file-id="3643" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1606">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"tables.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/db/products.py" file-id="3647" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"products.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/services/parser.py" file-id="3663" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"parser.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/db/__init__.py" file-id="3646" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"db/__init__.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/db/prices.py" file-id="3644" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2156">
+              <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"prices.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/templates/base.html" file-id="3665" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"base.html","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,57,10,16,105,99,111,110,115,47,106,105,110,106,97,50,46,115,118,103,26,8,80,121,116,104,111,110,105,100,34,14,105,110,116,101,108,108,105,106,46,106,105,110,106,97,40,-64,-120,-39,-26,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/templates/add-products.html" file-id="3668" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1540">
+              <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+              <folding>
+                <element signature="e#207#253#0#HTML" expanded="true" />
+                <element signature="e#588#594#0#HTML" expanded="true" />
+                <element signature="e#595#601#0#HTML" expanded="true" />
+                <element signature="e#735#762#0#HTML" expanded="true" />
+                <element signature="e#1066#1177#0#HTML" expanded="true" />
+                <element signature="e#1414#1540#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"add-products.html","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,57,10,16,105,99,111,110,115,47,106,105,110,106,97,50,46,115,118,103,26,8,80,121,116,104,111,110,105,100,34,14,105,110,116,101,108,108,105,106,46,106,105,110,106,97,40,-64,-120,-39,-26,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/templates/product-details.html" file-id="3667" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2178">
+              <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+              <folding>
+                <element signature="e#695#823#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"product-details.html","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,57,10,16,105,99,111,110,115,47,106,105,110,106,97,50,46,115,118,103,26,8,80,121,116,104,111,110,105,100,34,14,105,110,116,101,108,108,105,106,46,106,105,110,106,97,40,-64,-120,-39,-26,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/templates/category.html" file-id="3666" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="880">
+              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+              <folding>
+                <element signature="e#213#258#0#HTML" expanded="true" />
+                <element signature="e#1040#1109#0#HTML" expanded="true" />
+                <element signature="e#1336#1377#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"category.html","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,57,10,16,105,99,111,110,115,47,106,105,110,106,97,50,46,115,118,103,26,8,80,121,116,104,111,110,105,100,34,14,105,110,116,101,108,108,105,106,46,106,105,110,106,97,40,-64,-120,-39,-26,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/templates/products.html" file-id="3664" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2244">
+              <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+              <folding>
+                <element signature="e#1558#1601#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"products.html","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,57,10,16,105,99,111,110,115,47,106,105,110,106,97,50,46,115,118,103,26,8,80,121,116,104,111,110,105,100,34,14,105,110,116,101,108,108,105,106,46,106,105,110,106,97,40,-64,-120,-39,-26,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/static/style.css" file-id="3659" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="9790">
+              <caret line="445" column="1" selection-start-line="445" selection-start-column="1" selection-end-line="445" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"style.css","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/bot_instance.py" file-id="3635" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"bot_instance.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.gitignore" file-id="10307" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":".gitignore","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,77,10,19,118,99,115,47,105,103,110,111,114,101,95,102,105,108,101,46,115,118,103,18,27,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,103,110,111,114,101,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-117,-17,-30,-110,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.env" file-id="10308" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":".env","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/services/utils.py" file-id="3660" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"utils.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/requirements.txt" file-id="3638" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"requirements.txt","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,110,10,56,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,67,111,114,101,47,112,121,116,104,111,110,47,114,101,102,101,114,101,110,99,101,100,70,105,108,101,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,30,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,99,111,109,109,117,110,105,116,121,46,105,109,112,108,40,-67,-76,-93,-50,2,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Dockerfile" file-id="3640" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Dockerfile","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,95,10,22,105,99,111,110,115,47,68,111,99,107,101,114,70,105,108,101,95,49,46,115,118,103,18,22,105,99,111,110,115,47,101,120,112,117,105,47,100,111,99,107,101,114,46,115,118,103,26,6,68,111,99,107,101,114,34,29,105,110,116,101,108,108,105,106,46,99,108,111,117,100,115,46,100,111,99,107,101,114,46,115,104,97,114,101,100,40,-45,-116,-86,-35,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/ci-cd.yml" file-id="3634" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ci-cd.yml","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,67,10,18,102,105,108,101,84,121,112,101,115,47,121,97,109,108,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,121,97,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-72,-60,-59,56,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/services/background_tasks.py" file-id="3662" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="704">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"background_tasks.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Dockerfile": {
+      "usageCount": 2,
+      "lastUsed": 1785152805796
+    },
+    "CSS": {
+      "usageCount": 2,
+      "lastUsed": 1785152805781
+    },
+    ".env file": {
+      "usageCount": 2,
+      "lastUsed": 1785152892406
+    },
+    "Requirements.txt": {
+      "usageCount": 2,
+      "lastUsed": 1785152805763
+    },
+    "JavaScript": {
+      "usageCount": 2,
+      "lastUsed": 1785152805719
+    },
+    "GitIgnore file": {
+      "usageCount": 4,
+      "lastUsed": 1785152870636
+    },
+    "Database Element": {
+      "usageCount": 4,
+      "lastUsed": 1785152805740
+    },
+    "HTML": {
+      "usageCount": 10,
+      "lastUsed": 1785152805811
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1785152805741
+    },
+    "Python": {
+      "usageCount": 25,
+      "lastUsed": 1785152805796
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add_price</find>
+      <find>get_all</find>
+      <find>stat</find>
+      <find>style</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/static</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/andreea/PyCharmMiscProject/parse_bot/bot_instance.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/db/tables.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/services/parser.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/services/websocket.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/static/script.js",
+    "/home/andreea/PyCharmMiscProject/parse_bot/services/background_tasks.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/app.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/db/prices.py",
+    "/home/andreea/PyCharmMiscProject/parse_bot/templates/add-products.html",
+    "/home/andreea/PyCharmMiscProject/parse_bot/templates/category.html",
+    "/home/andreea/PyCharmMiscProject/parse_bot/templates/product-details.html",
+    "/home/andreea/PyCharmMiscProject/parse_bot/templates/products.html",
+    "/home/andreea/PyCharmMiscProject/parse_bot/templates/base.html",
+    "/home/andreea/PyCharmMiscProject/parse_bot/static/style.css",
+    "/home/andreea/PyCharmMiscProject/parse_bot/.gitignore",
+    "/home/andreea/PyCharmMiscProject/parse_bot/.env",
+    "/home/andreea/PyCharmMiscProject/parse_bot/requirements.txt"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1785152805781" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="2" lastUsage="1785152805796" />
+    </language>
+    <language id="DotEnv">
+      <summary usageCount="2" lastUsage="1785152892406" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="4" lastUsage="1785152870636" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="10" lastUsage="1785152805811" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="2" lastUsage="1785152805719" />
+    </language>
+    <language id="Python">
+      <summary usageCount="25" lastUsage="1785152805796" />
+    </language>
+    <language id="Requirements">
+      <summary usageCount="2" lastUsage="1785152805763" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1785152805741" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parse_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="parse_bot" />
+            <item name="parse_bot" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="parse_bot" />
+              <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/db" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="db" />
+                <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot/db}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/services" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="services" />
+                <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot/services}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/static" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="static" />
+                <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot/static}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/templates" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/templateRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="templates" />
+                <item name="dir{file:///home/andreea/PyCharmMiscProject/parse_bot/templates}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app.py" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="app.py" />
+                <item name="app.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bot_instance.py" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="bot_instance.py" />
+                <item name="bot_instance.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ci-cd.yml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text="ci-cd.yml" />
+                <item name="ci-cd.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dockerfile" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.clouds.docker.shared" iconPath="icons/expui/docker.svg" iconPlugin="Docker" isLeaf="true" text="Dockerfile" />
+                <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/requirements.txt" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.python.community.impl" iconPath="icons/com/jetbrains/pythonCore/python/referencedFile.svg" iconPlugin="PythonCore" isLeaf="true" text="requirements.txt" />
+                <item name="requirements.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$" processType="SHELL">
+        <option name="shellCommand">
+          <option value="/bin/zsh" />
+          <option value="-i" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (2)" workingDirectory="$PROJECT_DIR$" processType="SHELL">
+        <option name="shellCommand">
+          <option value="/bin/zsh" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39368773" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.2768486" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.23567708" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.2768486" />
+      <window_info anchor="bottom" id="Run" order="8" show_stripe_button="false" weight="0.2768486" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.49114066" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.23567708" left="0.39368773" right="0.49114066" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Notifications</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Database Changes</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1784205478799">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="413" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1784205478799" />
+    <state x="691" y="339" key="FileChooserDialogImpl" timestamp="1785150470808">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="691" y="339" key="FileChooserDialogImpl/0.0.1920.1200@0.0.1920.1200" timestamp="1785150470808" />
+    <state width="1724" height="267" key="GridCell.Tab.0.bottom" timestamp="1785152522257">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1724" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1785152522257" />
+    <state width="1724" height="267" key="GridCell.Tab.0.center" timestamp="1785152522257">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1724" height="267" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1785152522257" />
+    <state width="1724" height="267" key="GridCell.Tab.0.left" timestamp="1785152522257">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1724" height="267" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1785152522257" />
+    <state width="1724" height="267" key="GridCell.Tab.0.right" timestamp="1785152522257">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1724" height="267" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1785152522257" />
+    <state x="404" y="218" key="SettingsEditor" timestamp="1785000646030">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="404" y="218" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1785000646030" />
+    <state x="503" y="317" key="Vcs.Push.Dialog.v2" timestamp="1785149634025">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="503" y="317" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1785149634025" />
+    <state x="641" y="289" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1784204537894">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="641" y="289" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1784204537894" />
+    <state x="606" y="500" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1785152077272">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="606" y="500" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1200@0.0.1920.1200" timestamp="1785152077272" />
+    <state x="583" y="135" width="763" height="981" key="find.popup" timestamp="1785003972493">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="583" y="135" width="763" height="981" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1785003972493" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bot.py" />
+    <entry file="file://$PROJECT_DIR$/bot_instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.venv/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/websocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3e2aded6-8a06-41cd-8d7a-84bf36ec5ffc/schema/main/table/prices">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.ExperimentalDatabaseCompositeTableEditorProvider">
+        <state lastOpenedTimestamp="1785152805174" presentationMode="TABLE" projectRestartId="831f6f04-3c5b-4d44-a15f-e69af822a02c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3e2aded6-8a06-41cd-8d7a-84bf36ec5ffc/schema/main/table/products">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.ExperimentalDatabaseCompositeTableEditorProvider">
+        <state lastOpenedTimestamp="1785152805310" presentationMode="TABLE" projectRestartId="831f6f04-3c5b-4d44-a15f-e69af822a02c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ci-cd.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/history.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/prices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/background_tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add-products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+          <folding>
+            <element signature="e#207#253#0#HTML" expanded="true" />
+            <element signature="e#588#594#0#HTML" expanded="true" />
+            <element signature="e#595#601#0#HTML" expanded="true" />
+            <element signature="e#735#762#0#HTML" expanded="true" />
+            <element signature="e#1066#1177#0#HTML" expanded="true" />
+            <element signature="e#1414#1540#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="1" selection-start-line="445" selection-start-column="1" selection-end-line="445" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/products.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+          <folding>
+            <element signature="e#1558#1601#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding>
+            <element signature="e#213#258#0#HTML" expanded="true" />
+            <element signature="e#1040#1109#0#HTML" expanded="true" />
+            <element signature="e#1336#1377#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/product-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+          <folding>
+            <element signature="e#695#823#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

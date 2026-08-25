@@ -1,0 +1,354 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="FastAPIProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="qz07lj53av3m">
+      <file>
+        <entry file="file://$PROJECT_DIR$/../monitor/test_main.http" file-id="10433" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"test_main.http","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-89,1,10,60,99,111,109,47,105,110,116,101,108,108,105,106,47,119,115,47,114,101,115,116,47,99,108,105,101,110,116,47,105,99,111,110,115,47,104,116,116,112,95,114,101,113,117,101,115,116,115,95,102,105,108,101,116,121,112,101,46,115,118,103,18,64,99,111,109,47,105,110,116,101,108,108,105,106,47,119,115,47,114,101,115,116,47,99,108,105,101,110,116,47,105,99,111,110,115,47,101,120,112,117,105,47,104,116,116,112,82,101,113,117,101,115,116,115,70,105,108,101,116,121,112,101,46,115,118,103,26,24,99,111,109,46,106,101,116,98,114,97,105,110,115,46,114,101,115,116,67,108,105,101,110,116,40,-28,-97,-2,-88,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../monitor/pyproject.toml" file-id="10427" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pyproject.toml","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,19,105,99,111,110,115,47,116,111,109,108,45,102,105,108,101,46,115,118,103,18,20,105,99,111,110,115,47,110,101,119,117,105,47,116,111,109,108,46,115,118,103,26,13,111,114,103,46,116,111,109,108,46,108,97,110,103,40,-98,-128,-23,-104,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../monitor/backend/__init__.py" file-id="15129" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"__init__.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../monitor/uv.lock" file-id="11095" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"uv.lock","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,19,105,99,111,110,115,47,116,111,109,108,45,102,105,108,101,46,115,118,103,18,20,105,99,111,110,115,47,110,101,119,117,105,47,116,111,109,108,46,115,118,103,26,13,111,114,103,46,116,111,109,108,46,108,97,110,103,40,-98,-128,-23,-104,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../monitor/backend/main.py" file-id="10432" managing-fs="1783420678334">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="352">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TOML": {
+      "usageCount": 2,
+      "lastUsed": 1785155885512
+    },
+    "HTTP Request": {
+      "usageCount": 1,
+      "lastUsed": 1785155781477
+    },
+    "Python": {
+      "usageCount": 2,
+      "lastUsed": 1785159072118
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/andreea/PycharmProjects/FastAPIProject/pyproject.toml",
+    "/home/andreea/PycharmProjects/monitor/main.py",
+    "/home/andreea/PycharmProjects/monitor/backend/__init__.py",
+    "/home/andreea/PycharmProjects/monitor/pyproject.toml"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTTP Request">
+      <summary usageCount="1" lastUsage="1785155781478" />
+    </language>
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1785159072118" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="2" lastUsage="1785155885512" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andreea/PycharmProjects/monitor}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andreea/PycharmProjects/monitor}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andreea/PycharmProjects/monitor/backend}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="monitor" />
+            <item name="monitor" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$/../monitor" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="monitor" />
+              <item name="dir{file:///home/andreea/PycharmProjects/monitor}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../monitor/.fastapicloud" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".fastapicloud" />
+                <item name="dir{file:///home/andreea/PycharmProjects/monitor/.fastapicloud}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../monitor/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/andreea/PycharmProjects/monitor/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../monitor/backend" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="backend" />
+                <item name="dir{file:///home/andreea/PycharmProjects/monitor/backend}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../monitor/backend/__init__.py" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                  <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/../monitor/backend/main.py" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="main.py" />
+                  <item name="main.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../monitor/pyproject.toml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="pyproject.toml" />
+                <item name="pyproject.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../monitor/test_main.http" />
+                  </map>
+                </attributes>
+                <data iconPath="com/intellij/ws/rest/client/icons/expui/httpRequestsFiletype.svg" iconPlugin="com.jetbrains.restClient" isLeaf="true" text="test_main.http" />
+                <item name="test_main.http" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/../monitor/uv.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="uv.lock" />
+                <item name="uv.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="FastAPI.FastAPIProject" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$/../monitor" processType="SHELL">
+        <option name="shellCommand">
+          <option value="/bin/zsh" />
+          <option value="-i" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (2)" workingDirectory="$PROJECT_DIR$/../monitor" processType="SHELL">
+        <option name="shellCommand">
+          <option value="/bin/zsh" />
+          <option value="-i" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6461000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32945734" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32966548" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32508683" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.32966548" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.32966548" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32966548" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.32508683" left="0.32945734" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1206" height="327" key="GridCell.Tab.0.bottom" timestamp="1785241217772">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217772" />
+    <state width="1206" height="327" key="GridCell.Tab.0.center" timestamp="1785241217772">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217772" />
+    <state width="1206" height="327" key="GridCell.Tab.0.left" timestamp="1785241217772">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217772" />
+    <state width="1206" height="327" key="GridCell.Tab.0.right" timestamp="1785241217772">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217772" />
+    <state width="1206" height="327" key="GridCell.Tab.1.bottom" timestamp="1785241217773">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217773" />
+    <state width="1206" height="327" key="GridCell.Tab.1.center" timestamp="1785241217773">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217772" />
+    <state width="1206" height="327" key="GridCell.Tab.1.left" timestamp="1785241217772">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217772" />
+    <state width="1206" height="327" key="GridCell.Tab.1.right" timestamp="1785241217773">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1206" height="327" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1785241217773" />
+    <state x="404" y="218" key="SettingsEditor" timestamp="1785158434310">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="404" y="218" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1785158434310" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../monitor/uv.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../monitor/test_main.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../monitor/backend/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../monitor/pyproject.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../monitor/backend/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

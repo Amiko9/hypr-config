@@ -1,0 +1,40 @@
+mode = "local"
+project = ""
+shell = ""
+
+[dirs]
+project = []
+python = "isolated"
+data = "/home/andreea/.local/share/hatch"
+cache = "/home/andreea/.cache/hatch"
+
+[dirs.env]
+
+[projects]
+
+[publish.index]
+repo = "main"
+
+[template]
+name = "andreea"
+email = "neguraandreea@gmai.com"
+
+[template.licenses]
+headers = true
+default = [
+    "MIT",
+]
+
+[template.plugins.default]
+tests = true
+ci = false
+src-layout = true
+
+[terminal.styles]
+info = "bold"
+success = "bold cyan"
+error = "bold red"
+warning = "bold yellow"
+waiting = "bold magenta"
+debug = "bold"
+spinner = "simpleDotsScrolling"

@@ -1,0 +1,111 @@
+	configuration {
+    modi: "drun,run,window";
+    show-icons: true;
+    display-drun: "Apps";
+    display-run: "Run";
+    display-window: "Windows";
+    drun-display-format: "{icon}  {name}";
+    font: "JetBrainsMono Nerd Font 14";
+    terminal: "kitty";
+}
+
+* {
+    bg:            #0b1020;
+    bg-alt:        #121a33;
+    bg-light:      #1b2850;
+    fg:            #d8e4ff;
+    fg-muted:      #8fa4cc;
+    accent:        #8aaeff;
+    accent-2:      #c4a7ff;
+    selected-fg:   #08101f;
+    border-color:  #6f95ff;
+
+    background-color: transparent;
+    text-color: @fg;
+}
+
+window {
+    width: 42%;
+    location: center;
+    anchor: center;
+
+    background-color: @bg;
+    border: 2px;
+    border-color: @border-color;
+    border-radius: 20px;
+
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    children: [ inputbar, listview ];
+    spacing: 16px;
+}
+
+inputbar {
+    background-color: @bg-alt;
+    border: 1px;
+    border-color: @bg-light;
+    border-radius: 14px;
+
+    padding: 12px 16px;
+    children: [ prompt, entry ];
+}
+
+prompt {
+    background-color: transparent;
+    text-color: @accent-2;
+    padding: 0px 12px 0px 0px;
+}
+
+entry {
+    background-color: transparent;
+    text-color: @fg;
+    placeholder: "Search the stars...";
+    placeholder-color: @fg-muted;
+}
+
+listview {
+    background-color: transparent;
+    lines: 7;
+    columns: 1;
+    fixed-height: false;
+    scrollbar: false;
+    spacing: 7px;
+}
+
+element {
+    background-color: transparent;
+    text-color: @fg;
+    border-radius: 12px;
+    padding: 11px 14px;
+}
+
+element normal.normal {
+    background-color: transparent;
+    text-color: #d7e1ff;
+}
+
+element alternate.normal {
+    background-color: transparent;
+    text-color: #d7e1ff;
+}
+
+element selected.normal {
+    background-color: #86a8f7;
+    text-color: #10182e;
+}
+
+element-icon {
+    background-color: transparent;
+    size: 28px;
+    vertical-align: 0.5;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    vertical-align: 0.5;
+}
+
